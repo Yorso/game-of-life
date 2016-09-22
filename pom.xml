@@ -158,11 +158,7 @@
                             </goals>
                         </execution>
                     </executions>
-                    <configuration>
-                        <storyType>html</storyType>                         l
-                        <storyReport>${basedir}/target/easyb/easyb-report.html
-                        </storyReport>
-                    </configuration>
+                    
                 </plugin>
 
             </plugins>
